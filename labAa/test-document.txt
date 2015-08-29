@@ -1,0 +1,57 @@
+Andrew M. Calhoun
+CS 162 - LabAa
+
+LabAa, Test Cases:
+
+Test Group 1: 
+arrayTest1[SIZE1] = {1.0, 4.0, 7.05, 8.41, 4.12, 5.21}; -- Passes
+Sum: 29.79
+Average: 3.72375
+
+Test Group 2:
+double arrayTest2[SIZE2] = {1.0, 1.0, 2.0, 3.0, 5.0, 8.0, 13.0, 21.0}; -- Fibonacci Sequence, up to the 8th iteration / Passes
+Sum: 54.0
+Average: 6.75
+
+Test Group 3: 
+double arrayTest3[SIZE3] = {1.0, -1.0, 3.5, 2.1, -3.5, 1.0, 0.5}; - Passes
+Sum: 3.6
+Average: 0.51428
+
+Test Group 4:
+double arrayTest4[SIZE4] = {1.0, 2.0, 3.0}; - Passes
+Sum: 6
+Average: 2
+
+double arrayTest5[SIZE5] = {'a', 1, 0.0}; // produces a "quasi-garbage" output, as the char is assigned a numerical value. - Fails.
+Sum: 0 (Fail) - Does not return in final form of program
+Average: 0 (Fail) - Does not return in final form of program as it is not valid returnable
+
+Static Array Test 1:
+Size Input: 1
+
+Number Input: 5
+Sum: 5
+Average: 5 -- Passes
+
+Static Array Test 2:
+Size Input: 3
+Array Input: {1.0, 2.5, 5.0}
+Sum: 8.5
+Average: 2.8333 - Passes
+
+Static Array Test 3:
+Size Input: 11 
+
+Result: Array Too Large, please use 1 to 10. - Failed Test, Result Expected
+
+Static Array Test 4:
+Size Input: -1 
+
+Result: Array Too Small, please use 1 to 10. - Failed Test, Result Expected
+
+Static Array Test 5:
+Size Input: 1
+{a}
+
+Result: 0, please use numbers. - Failed test, designed to fail.			 

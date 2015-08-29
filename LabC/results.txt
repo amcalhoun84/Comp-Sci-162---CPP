@@ -1,0 +1,90 @@
+ 0. Standard Dice: You rolled a 6 on the six and a 4 on the ten sided.
+ 0. Total: 10
+ 0. Results: 10
+ 0. Mean: inf
+ 0. Loaded Dice: You rolled a 6 on the six and a 5 on the ten sided.
+ 0. Total: 11
+
+ 0. Results: 11
+ 0. Mean: inf
+ 1. Standard Dice: You rolled a 1 on the six and a 7 on the ten sided.
+ 1. Total: 8
+ 1. Results: 18
+ 1. Mean: 18
+ 1. Loaded Dice: You rolled a 2 on the six and a 9 on the ten sided.
+ 1. Total: 11
+
+ 1. Results: 22
+ 1. Mean: 22
+ 2. Standard Dice: You rolled a 3 on the six and a 10 on the ten sided.
+ 2. Total: 13
+ 2. Results: 31
+ 2. Mean: 15.5
+ 2. Loaded Dice: You rolled a 6 on the six and a 10 on the ten sided.
+ 2. Total: 16
+
+ 2. Results: 38
+ 2. Mean: 19
+ 3. Standard Dice: You rolled a 3 on the six and a 1 on the ten sided.
+ 3. Total: 4
+ 3. Results: 35
+ 3. Mean: 11.6667
+ 3. Loaded Dice: You rolled a 6 on the six and a 10 on the ten sided.
+ 3. Total: 16
+
+ 3. Results: 54
+ 3. Mean: 18
+ 4. Standard Dice: You rolled a 6 on the six and a 6 on the ten sided.
+ 4. Total: 12
+ 4. Results: 47
+ 4. Mean: 11.75
+ 4. Loaded Dice: You rolled a 4 on the six and a 10 on the ten sided.
+ 4. Total: 14
+
+ 4. Results: 68
+ 4. Mean: 17
+ 5. Standard Dice: You rolled a 1 on the six and a 9 on the ten sided.
+ 5. Total: 10
+ 5. Results: 57
+ 5. Mean: 11.4
+ 5. Loaded Dice: You rolled a 3 on the six and a 7 on the ten sided.
+ 5. Total: 10
+
+ 5. Results: 78
+ 5. Mean: 15.6
+ 6. Standard Dice: You rolled a 1 on the six and a 4 on the ten sided.
+ 6. Total: 5
+ 6. Results: 62
+ 6. Mean: 10.3333
+ 6. Loaded Dice: You rolled a 3 on the six and a 10 on the ten sided.
+ 6. Total: 13
+
+ 6. Results: 91
+ 6. Mean: 15.1667
+ 7. Standard Dice: You rolled a 6 on the six and a 1 on the ten sided.
+ 7. Total: 7
+ 7. Results: 69
+ 7. Mean: 9.85714
+ 7. Loaded Dice: You rolled a 6 on the six and a 2 on the ten sided.
+ 7. Total: 8
+
+ 7. Results: 99
+ 7. Mean: 14.1429
+ 8. Standard Dice: You rolled a 2 on the six and a 8 on the ten sided.
+ 8. Total: 10
+ 8. Results: 79
+ 8. Mean: 9.875
+ 8. Loaded Dice: You rolled a 6 on the six and a 3 on the ten sided.
+ 8. Total: 9
+
+ 8. Results: 108
+ 8. Mean: 13.5
+ 9. Standard Dice: You rolled a 2 on the six and a 6 on the ten sided.
+ 9. Total: 8
+ 9. Results: 87
+ 9. Mean: 9.66667
+ 9. Loaded Dice: You rolled a 6 on the six and a 5 on the ten sided.
+ 9. Total: 11
+
+ 9. Results: 119
+ 9. Mean: 13.2222

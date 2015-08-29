@@ -1,0 +1,8 @@
+
+#target: dependencies
+#	rule to build
+#
+
+default: average.cpp summation.cpp lab-week1-a.cpp
+	g++ -std=c++0x average.cpp summation.cpp lab-week1-a.cpp
+

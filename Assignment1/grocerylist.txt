@@ -1,0 +1,18 @@
+Grocery Shopping List
+
+1. Potatoes - 5 Lb. Sack - 2
+Item Price: $5.00
+
+2. Uncle Ben's Rice - 32 oz. Box - 5
+Item Price: $14.95
+
+3. Lagunita's IPA - 6-Pack - 2
+Item Price: $17.98
+
+4. Top Sirloin - 32 oz - 1
+Item Price: $18.99
+
+5. Citronella Bug Spray - 12 oz. Cans - 1
+Item Price: $3.99
+
+Total: $60.91

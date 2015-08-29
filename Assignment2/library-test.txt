@@ -1,0 +1,59 @@
+Book
+EX-1
+Game of Thrones
+George RR Martin
+Bantam Press - Audio Division
+500 Pages pages Pages
+ON RESERVE SHELF
+1
+
+Book
+EX-2
+Clash of Kings
+George RR Martin
+Bantam Press - Audio Divison
+680 Pages pages Pages
+ON RESERVE SHELF
+1
+
+Video
+EX-5
+Star Wars
+George Lucas
+Mark Hamill, Harrison Ford, Carrie Fisher, James Earl Jones
+LucasFilm Limited/Disney Corporation
+135 Minutes
+Star Wars minutes minutes
+On Shelf
+0
+
+Video
+EX-6
+Planet Earth
+BBC Documentary / Tom Babcock
+Oprah Winfrey
+BBC International
+360 Minutes
+Checked Out
+1
+
+Audiobook
+EX-3
+The DaVinci Code
+Dan Brown
+Morgan Freeman
+Bantam Press - Audio Division
+600 Minutes minutes minutes
+ON ORDER
+0
+
+Audiobook
+EX-4
+Angels and Demons
+Dan Brown
+Tara Strong
+Bantam Press - Audio Divison
+600 minutes minutes minutes
+On New Shelf
+0
+

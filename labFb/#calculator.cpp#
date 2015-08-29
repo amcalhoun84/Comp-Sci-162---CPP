@@ -1,0 +1,100 @@
+#include "calculator.hpp"
+#include "ADT_Stack.hpp"
+
+Calculator::Calculator()
+{ 
+	
+}
+
+
+/*void Calculator::operate();
+{
+	firstOperand = stack.pop();
+	secondOperand = stack.pop();
+
+	if (inputs = "+")
+	{
+		return (firstOperand + secondOperand);
+	}
+
+
+}*/
+
+void Calculator::operations(std::string inputs)
+{
+  	for(unsigned int i = 0; i<inputs.size(); i++)
+	{
+		if(isdigit(inputs[i]))
+		{
+			std::cout << inputs[i] << std::endl;
+			x = inputs[i].atoi();
+			stackInjection.push(x);
+		}
+		else if(ispunct(inputs[i]))
+		{
+			std::cout << "Operand." << std::endl;
+			if(inputs[i] == '+')
+			{
+				add();
+			}
+			else if(inputs[i] == '-')
+			{
+				sub();
+			}
+			else if(inputs[i] == '*')
+			{
+				mul();
+			}
+			else if(inputs[i] == '/')
+			{
+				div();
+			}
+			else if(inputs[i] == '%')
+			{
+				mod();
+			}
+		}
+	}
+
+
+
+}
+
+
+void Calculator::add()
+{
+	x = stack.push(stack.pop()+stack.pop());
+	std::cout << x << std::endl;
+}
+
+void Calculator::sub()
+{
+	x = stack.pop();
+	y = stack.pop();
+	x = stack.push(y-x);
+	std::cout << x << std::endl;	
+
+}
+
+void Calculator::mul()
+{
+	x = stack.push(stack.pop()*stack.pop());
+	std::cout << x << std::endl;
+
+}
+
+void Calculator::div()
+{
+	x = stack.pop();
+	y = stack.pop();
+	x = stack.push(y/x);
+	std::cout << x << std::endl;
+}
+
+void Calculator::mod()
+{
+	x = stack.pop();
+	y = stack.pop();
+	x = stack.push(y%x);
+	std::cout << x << std::endl;
+}
